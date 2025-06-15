@@ -1,3 +1,20 @@
+# v0.0.2 (Sun Jun 15 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Added deploy.yml file ([@Rem1x-2019](https://github.com/Rem1x-2019))
+- Added release.yml file ([@Rem1x-2019](https://github.com/Rem1x-2019))
+- Added deploy.sh file ([@Rem1x-2019](https://github.com/Rem1x-2019))
+- Added .autorc file ([@Rem1x-2019](https://github.com/Rem1x-2019))
+- Added amber.yaml secrets file ([@Rem1x-2019](https://github.com/Rem1x-2019))
+- Added flask quickstart ([@Rem1x-2019](https://github.com/Rem1x-2019))
+
+#### Authors: 1
+
+- [@Rem1x-2019](https://github.com/Rem1x-2019)
+
+---
+
 # v0.0.1 (Sun Jun 15 2025)
 
 :tada: This release contains work from new contributors! :tada:
